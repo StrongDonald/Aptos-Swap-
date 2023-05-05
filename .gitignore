@@ -1,0 +1,5 @@
+/build/
+.aptos/
+.aptos[0-9]/
+node_modules
+package_info.json

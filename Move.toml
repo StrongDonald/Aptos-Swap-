@@ -1,0 +1,12 @@
+[package]
+name = "Aptoswap"
+version = "0.1.0"
+
+[addresses]
+Aptoswap = "_"
+
+[dependencies]
+AptosFramework = { local = "./submodules/aptos-core/aptos-move/framework/aptos-framework" }
+
+[dev-addresses]
+Aptoswap = "0x11111"
